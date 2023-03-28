@@ -22,7 +22,7 @@ Suba tudo em um repositório e faça a entrega.
 
      ~$ docker-compose up -d
 
-- Subindo os containers:
+- Matando os containers:
 
     ~$ docker-compose down --remove-orphans
 
